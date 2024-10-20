@@ -1,5 +1,5 @@
 # SDSP Task2 Reproducible Research - MemStream
-This repo is about Task 2 of PUCRS course: Scalable Data Stream Processing. In this task, we should apply some of the methods that we learn or we can reproduce a research. I chose to reproduce the MemStream method for Anomaly Detection in Data Streams with anomalies and concept drift. The links to the original paper and the authors repository are below (with MemStream implementation and datasets that were used):
+This repo is about Task 2 of [PUCRS](https://www.pucrs.br/en/) course: Scalable Data Stream Processing. The course is ministred on [PPGCC](https://www.pucrs.br/technology/graduate-program-in-computer-science/) by professor [Dalvan Griebler](https://www.dalvangriebler.com).  In the task, we should apply some of the methods that we learn or we can reproduce a research. I chose to reproduce the MemStream method for Anomaly Detection in Data Streams with anomalies and concept drift. The links to the original paper and the authors repository are below (with MemStream implementation and datasets that were used):
 
 * Original Paper: https://dl.acm.org/doi/pdf/10.1145/3485447.3512221
 * MemStream Repo: https://github.com/Stream-AD/MemStream?tab=readme-ov-file
